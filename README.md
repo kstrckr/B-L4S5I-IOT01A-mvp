@@ -6,7 +6,7 @@ A base starting point for projects using the STM B-L475E-IOT01A Iot Node dev boa
 https://github.com/stm32-rs/stm32-rs
 
 
-## I2C Addresses
+## I2C2 Addresses
 |Modules |Description |SAD[0:6]+R/W |I2C write address |I2C read address
 --- | --- | --- | --- | ---
 |HTS221 |Capacitive digital sensor for relativehumidity and temperatur |1011111x |0xBE |0xBF
