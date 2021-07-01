@@ -22,8 +22,8 @@ https://github.com/stm32-rs/stm32-rs
 |Module |Description |Pin Name
 --- | --- | ---
 |ISM43362-SPI3_CSN |WiFi |PE0
-|SPSGRF-915-SPI3_CS |Sub Ghz Module |PB5
-|SPBTLE-RF-SPI3_CS |Bluetooth LE |PD13
+|SPSGRF-915-SPI3_CSN |Sub Ghz Module |PB5
+|SPBTLE-RF-SPI3_CSN |Bluetooth LE |PD13
 |SPI3_SCK |MCU SCK |PC10
 |SPI3_MISO |MCU MISO |PC11
 |SPI3_MOSI |MCU MOSI |PC12
