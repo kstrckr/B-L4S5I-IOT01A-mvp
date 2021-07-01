@@ -35,4 +35,20 @@ https://github.com/stm32-rs/stm32-rs
 |ISM43362-RST |PE8
 |STSAFE-A110-RESET |PD7
 
+## QSPI NOR Flash Memory Pins
+|Module Pin |Pin Name
+--- | ---
+|QUADSPI_CLK |PE10
+|QUADSPI_NCS |PE11
+|QUADSPI_BK1_IO0 |PE12
+|QUADSPI_BK1_IO1 |PE13
+|QUADSPI_BK1_IO2 |PE14
+|QUADSPI_BK1_IO3 |PE15
+
+## MEMS Microphone
+|Signal/Label |Pin Name
+-- | --
+|DFSDM1_DATIN2 |PE7
+|DFSDM1_CKOUT |PE9
+
 
